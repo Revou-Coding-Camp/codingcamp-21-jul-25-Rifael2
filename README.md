@@ -36,8 +36,8 @@
 <body class="bg-gray-100 min-h-screen">
     <div class="container mx-auto px-4 py-8 max-w-4xl">
         <header class="text-center mb-12">
-            <h1 class="text-4xl font-bold text-gray-800 mb-2">Advanced To-Do Manager</h1>
-            <p class="text-lg text-gray-600">Stay organized and boost your productivity</p>
+            <h1 class="text-4xl font-bold text-gray-800 mb-2">to-do list</h1>
+            <p class="text-lg text-gray-600">yok nugas</p>
         </header>
 
         <div class="grid grid-cols-1 lg:grid-cols-3 gap-8">
